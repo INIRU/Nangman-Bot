@@ -1,2 +1,6 @@
+# Token
 /Database/config.json
+
+# Node
 /node_modules
+deploy-commands.js
